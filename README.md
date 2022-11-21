@@ -46,7 +46,7 @@ It uses https://placekitten.com/ and creates 20 urls by default.
 
 ### Architecture Flow
 
-![img.png](architecture.png)
+![image](https://user-images.githubusercontent.com/8826542/203024752-50f65635-c114-4d0c-bffd-1ff5ef332c07.png)
 
 ### Performance Benchmarking
 
